@@ -1,5 +1,6 @@
 //https://study.helloalgo.co.kr/contents/4910
-
+//https://study.helloalgo.co.kr/contents/4730
+//https://study.helloalgo.co.kr/contents/4242
 #include<bits/stdc++.h>
 using namespace std;
 using pii = pair<int,int>;
